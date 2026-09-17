@@ -1,0 +1,8 @@
+{
+  "name": "જય દ્વારકાધીશ ગૌ સેવા Hospital",
+  "description": "Digital Gaushala Management & Seva App with online seva donations, dynamic pamphlet generator, birthday seva, festival celebrations, cow adoption, crackers sale, and master admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
